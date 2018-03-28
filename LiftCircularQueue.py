@@ -33,3 +33,5 @@ lift rope rope rope drift empty empty empty
  move each element aside
  
 """
+import os
+os.system ('CLS')
